@@ -293,6 +293,10 @@ analyzer needs.
 |---|---|
 | [docs/how-it-works.md](docs/how-it-works.md) | Architecture, inner mechanics, compiler, register VM, and device lifecycle |
 | [docs/how-to-setup.md](docs/how-to-setup.md) | Step-by-step setup guide for infrastructure, keys, app SDK, and release pipelines |
+| [docs/how-to/how-to-debug-and-troubleshoot.md](docs/how-to/how-to-debug-and-troubleshoot.md) | Debugging decision tree, status codes (`onStatus`), and troubleshooting |
+| [docs/how-to/how-to-optimize-bundle-size.md](docs/how-to/how-to-optimize-bundle-size.md) | Minimizing bytecode bundle size and binary delta update optimization |
+| [docs/how-to/how-to-migrate-and-version.md](docs/how-to/how-to-migrate-and-version.md) | Multi-version fleet management, capability floors (`--min-sdk`), and migrations |
+| [docs/how-to/how-to-test-patches.md](docs/how-to/how-to-test-patches.md) | Widget testing, capability CI gates, and crash-loop simulation |
 | [docs/skills.md](docs/skills.md) | Operational Skill Cards for developers and AI agents |
 | [docs/advanced-skills.md](docs/advanced-skills.md) | Enterprise Skills: Multi-channel, delta updates, CI/CD, and benchmarking |
 | [docs/security-and-threat-model.md](docs/security-and-threat-model.md) | Security architecture, threat analysis, sandboxing, and store compliance |
