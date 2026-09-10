@@ -18,6 +18,8 @@ This guide provides modular, actionable **Skill Cards** for software engineers a
 10. [Skill 10: CI/CD Compatibility Gating & Min-SDK Floor](#skill-10-cicd-compatibility-gating--min-sdk-floor)
 11. [Skill 11: Diagnostics & Troubleshooting](#skill-11-diagnostics--troubleshooting)
 
+For enterprise workflows (multi-channel, binary delta updates, GitHub Actions CI/CD pipelines, type marshaling, benchmarking), see **[docs/advanced-skills.md](advanced-skills.md)**. For security architecture and store policy compliance, see **[docs/security-and-threat-model.md](security-and-threat-model.md)**.
+
 ---
 
 ### Skill 1: Deploying Control Plane Infrastructure
