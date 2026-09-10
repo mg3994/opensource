@@ -297,6 +297,8 @@ analyzer needs.
 | [docs/how-to/how-to-optimize-bundle-size.md](docs/how-to/how-to-optimize-bundle-size.md) | Minimizing bytecode bundle size and binary delta update optimization |
 | [docs/how-to/how-to-migrate-and-version.md](docs/how-to/how-to-migrate-and-version.md) | Multi-version fleet management, capability floors (`--min-sdk`), and migrations |
 | [docs/how-to/how-to-test-patches.md](docs/how-to/how-to-test-patches.md) | Widget testing, capability CI gates, and crash-loop simulation |
+| [docs/how-to/how-to-configure-observability-and-alerts.md](docs/how-to/how-to-configure-observability-and-alerts.md) | Prometheus metrics, health probes, `onStatus` telemetry, and alerts |
+| [docs/how-to/how-to-manage-custom-server-storage.md](docs/how-to/how-to-manage-custom-server-storage.md) | Control plane storage backends (Docker, GCS, Azure, K8s PVC) |
 | [docs/skills.md](docs/skills.md) | Operational Skill Cards for developers and AI agents |
 | [docs/advanced-skills.md](docs/advanced-skills.md) | Enterprise Skills: Multi-channel, delta updates, CI/CD, and benchmarking |
 | [docs/security-and-threat-model.md](docs/security-and-threat-model.md) | Security architecture, threat analysis, sandboxing, and store compliance |
