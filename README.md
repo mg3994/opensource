@@ -291,6 +291,9 @@ analyzer needs.
 
 | | |
 |---|---|
+| [docs/how-it-works.md](docs/how-it-works.md) | Architecture, inner mechanics, compiler, register VM, and device lifecycle |
+| [docs/how-to-setup.md](docs/how-to-setup.md) | Step-by-step setup guide for infrastructure, keys, app SDK, and release pipelines |
+| [docs/skills.md](docs/skills.md) | Operational Skill Cards for developers and AI agents |
 | [docs/getting-started.md](docs/getting-started.md) | First patch, the dev loop, the example app |
 | [docs/production.md](docs/production.md) | Hosting, capability compatibility, hang budget, store policy, limitations |
 | [AGENTS.md](AGENTS.md) | Integration procedure for an AI agent |
